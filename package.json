@@ -1,0 +1,32 @@
+{
+  "name": "mef",
+  "version": "0.1.1",
+  "description": "Mobile Entity Framework",
+  "main": "release.js",
+  "dependencies": {
+    "total.js": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Athuli7/mef.git"
+  },
+  "keywords": [
+    "mobile",
+    "entity",
+    "framework",
+    "ble",
+    "wifi",
+    "lan",
+    "tracking"
+  ],
+  "author": "Athul Raj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Athuli7/mef/issues"
+  },
+  "homepage": "https://github.com/Athuli7/mef#readme"
+}

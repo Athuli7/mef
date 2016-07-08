@@ -1,4 +1,10 @@
 # mef
+##Deploy
+>
+> git clone https://github.com/Athuli7/mef
+> npm install
+> node release.js
+>
 ##Mobile Entity Framework
 A framework for mobile entities such as persons, assets and employees.
 ###Purpose
